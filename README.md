@@ -107,7 +107,7 @@ nelson = {
 | [motor-monitor](https://github.com/Nelson-D3v/motor-monitor) | MotorSync — monitor de ativos industriais com telemetria e alertas (Streamlit) |
 | [gs-front](https://github.com/Nelson-D3v/gs-front) | GS — PyroWatch, dashboard de monitoramento de queimadas |
 | [bingo-rush](https://github.com/Nelson-D3v/bingo-rush) | Videobingo arcade em Godot 4 — sorteio progressivo, near-win e bola extra |
-| [Libelle](https://libelleclub.vercel.app) | E-commerce sob medida: catálogo, checkout com Mercado Pago, frete, painel admin e deploy automático |
+| [Libelle](https://libelleclub.com.br/) | E-commerce sob medida: catálogo, checkout com Mercado Pago, frete, painel admin e deploy automático |
 
 ---
 
